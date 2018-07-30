@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace MyShop.WebUI.Tests.Mocks
+namespace Tienda.WEB.Tests.Mocks
 {
     public class MockHttpContext : HttpContextBase
     {

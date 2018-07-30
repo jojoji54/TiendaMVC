@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using MyShop.WebUI.Models;
+using Tienda.WEB.Models;
 
-namespace MyShop.WebUI
+namespace Tienda.WEB
 {
     public partial class Startup
     {

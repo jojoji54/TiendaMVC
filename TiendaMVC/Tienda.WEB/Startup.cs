@@ -2,8 +2,8 @@
 using Owin;
 using Tienda.WEB;
 
-[assembly: OwinStartupAttribute(typeof(MyShop.WebUI.Startup))]
-namespace MyShop.WebUI
+[assembly: OwinStartupAttribute(typeof(Tienda.WEB.Startup))]
+namespace Tienda.WEB
 {
     public partial class Startup
     {

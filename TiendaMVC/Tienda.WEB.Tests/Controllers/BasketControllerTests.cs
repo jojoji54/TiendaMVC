@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MyShop.WebUI.Tests.Mocks;
+using Tienda.WEB.Tests.Mocks;
 using System.Linq;
 using System.Web.Mvc;
 using System.Security.Principal;

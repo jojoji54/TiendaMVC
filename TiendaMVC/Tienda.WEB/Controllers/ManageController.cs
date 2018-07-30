@@ -6,8 +6,8 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using MyShop.WebUI;
-using MyShop.WebUI.Models;
+using Tienda.WEB;
+using Tienda.WEB.Models;
 
 namespace Tienda.WEB.Controllers
 {
