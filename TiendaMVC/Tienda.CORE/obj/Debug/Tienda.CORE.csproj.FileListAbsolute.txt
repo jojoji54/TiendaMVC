@@ -1,0 +1,11 @@
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Core\bin\Debug\Tienda.CORE.dll
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Core\bin\Debug\Tienda.CORE.pdb
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Core\obj\Debug\Tienda.CORE.csprojAssemblyReference.cache
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Core\obj\Debug\Tienda.CORE.csproj.CoreCompileInputs.cache
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Core\obj\Debug\Tienda.CORE.dll
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Core\obj\Debug\Tienda.CORE.pdb
+C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.CORE\bin\Debug\Tienda.CORE.dll
+C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.CORE\bin\Debug\Tienda.CORE.pdb
+C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.CORE\obj\Debug\Tienda.CORE.csproj.CoreCompileInputs.cache
+C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.CORE\obj\Debug\Tienda.CORE.dll
+C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.CORE\obj\Debug\Tienda.CORE.pdb

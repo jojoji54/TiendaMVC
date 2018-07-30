@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Tienda.CORE.Models.CategProducto>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Crear")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Categoria)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Categoria)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Editar", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Eliminar", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

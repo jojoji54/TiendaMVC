@@ -1,0 +1,9 @@
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Services\bin\Debug\MyShop.Core.dll
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Services\bin\Debug\MyShop.Core.pdb
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CopyComplete
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+C:\Users\jojoj\Desktop\MyShop3\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
