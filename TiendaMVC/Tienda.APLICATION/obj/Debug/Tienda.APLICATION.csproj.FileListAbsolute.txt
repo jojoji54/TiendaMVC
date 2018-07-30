@@ -16,3 +16,12 @@ C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.APLICATION\obj\Debug\Tienda.APLIC
 C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.APLICATION\obj\Debug\Tienda.APLICATION.csproj.CopyComplete
 C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.APLICATION\obj\Debug\Tienda.APLICATION.dll
 C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.APLICATION\obj\Debug\Tienda.APLICATION.pdb
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.APLICATION\bin\Debug\Tienda.APLICATION.dll
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.APLICATION\bin\Debug\Tienda.APLICATION.pdb
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.APLICATION\bin\Debug\Tienda.CORE.dll
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.APLICATION\bin\Debug\Tienda.CORE.pdb
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.APLICATION\obj\Debug\Tienda.APLICATION.csprojAssemblyReference.cache
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.APLICATION\obj\Debug\Tienda.APLICATION.csproj.CoreCompileInputs.cache
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.APLICATION\obj\Debug\Tienda.APLICATION.csproj.CopyComplete
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.APLICATION\obj\Debug\Tienda.APLICATION.dll
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.APLICATION\obj\Debug\Tienda.APLICATION.pdb

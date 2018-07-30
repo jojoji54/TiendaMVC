@@ -16,3 +16,12 @@ C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.DataAccess.InMemory\obj\Debug\Tie
 C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.DataAccess.InMemory\obj\Debug\Tienda.DataAccess.InMemory.csproj.CopyComplete
 C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.DataAccess.InMemory\obj\Debug\Tienda.DataAccess.InMemory.dll
 C:\Users\jojoj\Desktop\Tienda\TiendaMVC\Tienda.DataAccess.InMemory\obj\Debug\Tienda.DataAccess.InMemory.pdb
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.DataAccess.InMemory\bin\Debug\Tienda.DataAccess.InMemory.dll
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.DataAccess.InMemory\bin\Debug\Tienda.DataAccess.InMemory.pdb
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.DataAccess.InMemory\bin\Debug\Tienda.CORE.dll
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.DataAccess.InMemory\bin\Debug\Tienda.CORE.pdb
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.DataAccess.InMemory\obj\Debug\Tienda.DataAccess.InMemory.csprojAssemblyReference.cache
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.DataAccess.InMemory\obj\Debug\Tienda.DataAccess.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.DataAccess.InMemory\obj\Debug\Tienda.DataAccess.InMemory.csproj.CopyComplete
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.DataAccess.InMemory\obj\Debug\Tienda.DataAccess.InMemory.dll
+C:\Users\jojoj\Desktop\T\TiendaMVC\Tienda.DataAccess.InMemory\obj\Debug\Tienda.DataAccess.InMemory.pdb
